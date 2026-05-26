@@ -1,0 +1,10 @@
+@charset "UTF-8";
+h1 {
+    color: #0bd;
+    font-family: serif;
+    font-size:35px;
+    background-color:white;
+} 
+body {
+    background-color:aqua;
+}
